@@ -2,6 +2,13 @@
 
 Becca Lyria's Profile!
 
+![](https://img.shields.io/codeclimate/maintainability/BeccaLyria/BeccaLyria.github.io)
+![](https://img.shields.io/codeclimate/issues/BeccaLyria/BeccaLyria.github.io)
+![](https://img.shields.io/codeclimate/tech-debt/BeccaLyria/BeccaLyria.github.io)
+![](https://img.shields.io/lgtm/alerts/github/BeccaLyria/BeccaLyria.github.io)
+![](https://img.shields.io/lgtm/grade/javascript/github/BeccaLyria/BeccaLyria.github.io)
+
+
 ## Live Version
 
 This page is currently deployed. [View the live website.](https://www.beccalyria.com)
