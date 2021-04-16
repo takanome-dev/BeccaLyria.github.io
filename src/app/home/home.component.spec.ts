@@ -26,7 +26,7 @@ describe('HomeComponent', () => {
     const texts = compiled.querySelectorAll('p');
     expect(header.innerText.trim()).toBe('Becca Lyria');
     expect(texts[0].innerText.trim()).toBe(
-      "Hello there! I'm Becca Lyria. It is very nice to meet you."
+      `Hello there! I'm Becca Lyria. It is very nice to meet you.`
     );
   });
 });

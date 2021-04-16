@@ -28,8 +28,8 @@ describe('BioComponent', () => {
 
   it('should render the header correctly', () => {
     const header = compiled.querySelector('h1');
-    expect(header.innerText.trim()).toBe('About Me')
-  })
+    expect(header.innerText.trim()).toBe('About Me');
+  });
 
   it('should render the bio data correctly', () => {
     const headers = compiled.querySelectorAll('h2');
