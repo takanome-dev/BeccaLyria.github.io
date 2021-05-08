@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { HomeComponent } from './home/home.component';
 import { GalleryComponent } from './gallery/gallery.component';
 import { BioComponent } from './bio/bio.component';
+import { GamesComponent } from './games/games.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { BioComponent } from './bio/bio.component';
     NavbarComponent,
     HomeComponent,
     GalleryComponent,
-    BioComponent
+    BioComponent,
+    GamesComponent
   ],
   imports: [
     BrowserModule,
