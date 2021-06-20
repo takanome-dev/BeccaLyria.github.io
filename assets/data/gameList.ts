@@ -52,4 +52,9 @@ export const GameList: GameInt[] = [
     gameName: 'Tyranny',
     gameUrl: 'https://store.steampowered.com/app/362960/Tyranny/',
   },
+  {
+    fileName: 'soul-caliber-6.png',
+    gameName: 'Soul Calibur VI',
+    gameUrl: 'https://store.steampowered.com/app/544750/SOULCALIBUR_VI/'
+  }
 ];
