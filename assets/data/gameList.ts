@@ -55,6 +55,11 @@ export const GameList: GameInt[] = [
   {
     fileName: 'soul-caliber-6.png',
     gameName: 'Soul Calibur VI',
-    gameUrl: 'https://store.steampowered.com/app/544750/SOULCALIBUR_VI/'
-  }
+    gameUrl: 'https://store.steampowered.com/app/544750/SOULCALIBUR_VI/',
+  },
+  {
+    fileName: 'jump-force.png',
+    gameName: 'Jump Force',
+    gameUrl: 'https://store.steampowered.com/app/816020/JUMP_FORCE/',
+  },
 ];
