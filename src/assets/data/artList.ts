@@ -42,4 +42,16 @@ export const artList: ArtInt[] = [
     artist: 'Starfazers',
     artistUrl: 'https://instagram.com/starfazers',
   },
+  {
+    fileName: 'Ashley.jpg',
+    artName: 'Untitled',
+    artist: 'Ashley',
+    artistUrl: 'https://www.instagram.com/tbg_art/',
+  },
+  {
+    fileName: 'shiroGEM.png',
+    artName: 'Untilted',
+    artist: 'crys-chris',
+    artistUrl: 'https://crys-chris.carrd.co/',
+  },
 ];
