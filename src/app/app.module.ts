@@ -10,6 +10,8 @@ import { GalleryComponent } from './gallery/gallery.component';
 import { BioComponent } from './bio/bio.component';
 import { GamesComponent } from './games/games.component';
 import { Router } from '@angular/router';
+import { EmotesComponent } from './emotes/emotes.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { Router } from '@angular/router';
     HomeComponent,
     GalleryComponent,
     BioComponent,
-    GamesComponent
+    GamesComponent,
+    EmotesComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

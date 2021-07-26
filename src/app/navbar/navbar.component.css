@@ -10,6 +10,7 @@ nav {
   background-color: rgba(0, 0, 0, 0.8);
   max-height: 100px;
   flex-wrap: wrap;
+  z-index: 2;
 }
 
 h1 {
