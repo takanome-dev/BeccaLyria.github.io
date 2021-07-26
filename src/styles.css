@@ -4,11 +4,9 @@ main p {
 
 body {
   color: #aea8d3;
-  margin-left: 110px;
 }
 
 main {
-  margin-left: 110px;
   padding: 20px;
   border-radius: 25px;
 }
@@ -26,24 +24,6 @@ body::before {
   z-index: -1;
   width: 100vw;
   height: 100vh;
-}
-
-nav {
-  width: 200px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  border-right: 5px solid #aea8d3;
-  height: 100vh;
-  word-wrap: break-word;
-  overflow-y: scroll;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-  background-color: rgba(0, 0, 0, 0.8);
-}
-
-nav::-webkit-scrollbar {
-  width: 0px;
 }
 
 html {
@@ -77,15 +57,6 @@ a:hover {
   background-color: #3a3240;
   -webkit-transition: color 0.4s ease;
   transition: color 0.4s ease;
-}
-
-@media (max-width: 500px) {
-  nav {
-    display: none;
-  }
-  body {
-    margin-left: 0;
-  }
 }
 
 ul {

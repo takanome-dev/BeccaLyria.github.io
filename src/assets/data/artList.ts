@@ -55,7 +55,7 @@ export const artList: ArtInt[] = [
     artistUrl: 'https://crys-chris.carrd.co/',
   },
   {
-    fileName: 'Instpector Luke Warm.png',
+    fileName: 'Inspector Luke Warm.png',
     artName: 'Untitled',
     artist: 'Inspector Luke Warm',
     artistUrl: 'https://www.gaiaonline.com/profiles/inspector-luke-warm/20324544/'
