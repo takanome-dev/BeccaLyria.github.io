@@ -62,4 +62,9 @@ export const GameList: GameInt[] = [
     gameName: 'Jump Force',
     gameUrl: 'https://store.steampowered.com/app/816020/JUMP_FORCE/',
   },
+  {
+    fileName: 'saints-row-3.png',
+    gameName: 'Saints Row 3',
+    gameUrl: 'https://store.steampowered.com/app/978300/Saints_Row_The_Third_Remastered/',
+  }
 ];
