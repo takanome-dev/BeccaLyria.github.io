@@ -65,6 +65,13 @@ export const GameList: GameInt[] = [
   {
     fileName: 'saints-row-3.png',
     gameName: 'Saints Row 3',
-    gameUrl: 'https://store.steampowered.com/app/978300/Saints_Row_The_Third_Remastered/',
-  }
+    gameUrl:
+      'https://store.steampowered.com/app/978300/Saints_Row_The_Third_Remastered/',
+  },
+  {
+    fileName: 'pathfinder.png',
+    gameName: 'Pathfinder: Wrath of the Righteous',
+    gameUrl:
+      'https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous/',
+  },
 ];
