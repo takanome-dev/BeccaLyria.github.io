@@ -1,4 +1,17 @@
+
+p {
+  font-size: 1.2rem;
+}
+
 main {
-  background-color: rgba(0, 0, 0, 0.8);
-  margin-top: 110px;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: "💜 ";
+}
+
+li {
+  margin-bottom: 10px;
 }
